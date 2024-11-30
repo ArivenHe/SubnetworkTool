@@ -1,0 +1,5 @@
+{
+  "allowJs": true,  // 添加此行
+  "files": [],
+  "references": [{ "path": "./tsconfig.node.json" }, { "path": "./tsconfig.web.json" }]
+}
